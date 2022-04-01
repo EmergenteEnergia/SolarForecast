@@ -1,14 +1,13 @@
-# solar forecast
-This repository contents the source code for the intraday forecast process of solar global horizontal irradiance and surface temperature based on numerical weather prediction models and, coupled with neural network and data analysis.
+# Solar Forecast
+This repository contains the source code for the intraday forecast process of solar global horizontal irradiance and surface temperature based on numerical weather prediction models and, coupled with neural network and data analysis.
 
-The method uses as primary input the products of the Global Forecasting System (GFS) from NOAA and then, the forecasted data is post-processed and employed for building and training a neural network model to produce intraday solar irradiance and temperature forecasts. 
+The method uses as primary input the products of the Global Forecasting System (GFS) from NOAA. The forecasted data is post-processed and employed for building and training a neural network model to produce intraday solar irradiance and temperature forecasts. 
 
-Project is supported by Microsoft and GEO and will be developed and operated using the Microsoft Planetary Computer and Microsoft Azure resources.
-
+The project is supported by Microsoft and GEO and will be developed and operated using the Microsoft Planetary Computer and Microsoft Azure resources.
 
 ## Main functionalities
 
-* Acquisition of historical and real-time forecasted data from GFS server
+* Acquisition of historical and real-time forecasted data from the GFS server
 * Post-processing of data
 * Analysis of meteorological variables
 * Neural network method
