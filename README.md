@@ -9,7 +9,7 @@ This project attempts to help the optimization of photovoltaic solar energy prod
 
 ## Library and main functionalities
 1. [Library Installation](docs/installation.md)
-2. [Data Acquisition](docs/daq.md) and [post-processing](docs/posproc.md)
+2. [Data Acquisition](docs/daq.md) and [post-processing](docs/posproc.md.m)
 3. [Analysis of meteorological variables](docs/ansys.ipynb)
 4. [Neuronal Network for solar irradiance forecast](docs/ann.md)
 5. [In situ verification](docs/verif.md)
